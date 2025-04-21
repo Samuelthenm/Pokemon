@@ -2,13 +2,13 @@
 
 A fun Pokémon-catching app built with React, styled with Tailwind CSS, and powered by the PokéAPI!
 
----
+
 
 ## Demo
 
-![PokéBella Demo](./pokebella.gif)
+![PokéBella Demo](public/pokebella.gif)
 
----
+
 
 ## Features
 
@@ -17,7 +17,7 @@ A fun Pokémon-catching app built with React, styled with Tailwind CSS, and powe
 - Live data from [PokéAPI](https://pokeapi.co/)
 - Displays Pokémon images, names, types, and stats
 
----
+
 
 ## Tech Stack
 
@@ -25,7 +25,7 @@ A fun Pokémon-catching app built with React, styled with Tailwind CSS, and powe
 - Tailwind CSS
 - PokéAPI
 
----
+
 
 ## Getting Started
 
